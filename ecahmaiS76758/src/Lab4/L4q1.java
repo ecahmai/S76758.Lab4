@@ -14,7 +14,7 @@ public class L4q1 {
     public static void main(String[] args) {
         
        
-        String inputRadius = JOptionPane.showInputDialog("Enter radius of circle: ");
+        String inputRadius = JOptionPane.showInputDialog("Enter radius of circle ");
         double radius = Float.parseFloat(inputRadius);
         
         double diameter = 2 * radius;
